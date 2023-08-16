@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
       - name: myapp-container
-        image: lakshminarayanam/gitops-argo-app:32
+        image: lakshminarayanam/gitops-argo-app:33
         resources:
           limits:
             memory: "128Mi"
